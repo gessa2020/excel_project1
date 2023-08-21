@@ -27,7 +27,8 @@ Below are some of the questions that can be answered by the dashboard that will 
 - I used then entirely used Excel as a tool to create the dashboard.
 
 ## Demo
-![](hrvideo.mp4)
+![watch the demo](hrvideo.mp4)
+
 
 
 We then use the <a href="https://developer.adzuna.com/">Adzuna API</a> to scrape data of number of technology jobs in some selected US cities and store them in an excel file 
