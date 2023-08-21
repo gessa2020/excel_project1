@@ -28,6 +28,7 @@ Below are some of the questions that can be answered by the dashboard that will 
 
 ## Demo
 
+[![Watch](https://i.stack.imgur.com/Vp2cE.png)](https://github.com/gessa2020/excel_project1/blob/main/hrvideo.mp4)
 <video width="480" height="360" controls>
   <source src="https://github.com/gessa2020/excel_project1/blob/main/hrvideo.mp4?raw=true" type="video/mp4">
 Your browser does not support the video tag.  
