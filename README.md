@@ -27,10 +27,11 @@ Below are some of the questions that can be answered by the dashboard that will 
 - I used then entirely used Excel as a tool to create the dashboard.
 
 ## Demo
-<video width="320" height="240" controls>
-  <source src="https://github.com/user/repo/blob/master/videos/tutorial/intro.mp4?raw=true" type="video/mp4">
-Your browser does not support the video tag.
+<video width="480" height="360" controls>
+  <source src="https://github.com/gessa2020/excel_project1/blob/main/hrvideo.mp4?raw=true" type="video/mp4">
+Your browser does not support the video tag.  
 </video>
+
 
 <video width="320" height="240" controls>
   <source src="https://github.com/gessa2020/excel_project1/blob/main/hrvideo.mp4?raw=true" type="video/mp4">
