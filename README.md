@@ -33,11 +33,6 @@ Your browser does not support the video tag.
 </video>
 
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/gessa2020/excel_project1/blob/main/hrvideo.mp4?raw=true" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-
 The tutorial covers how to process data using Python.
 
   
@@ -74,8 +69,8 @@ Graph showing Top 10 databases  Desired Next![](IMAGES/Top10DatabasesNext.jpg)
 - Redis supports abstract data types
 - Postgre databases is most likely to become very popular than MySQL in coming years
 
-# Sample Cognos dashboards
-Dashboard showing current technology usage![](IMAGES/TAB1.jpg)
+# Excel generated dashboard
+Dashboard showing human resource attrition![](Screenshots/Dashboard.jpg)
 
 Dashboard showing future technology usage![](IMAGES/TAB2.jpg)
 
