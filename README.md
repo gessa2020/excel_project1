@@ -8,11 +8,18 @@ By gathering, integrating, and analyzing HR metrics, organizations can gain a qu
 Essentially, HR analytics introduces an evidence-based approach toward strategic human capital management. It allows HR leaders to accurately measure the ROI of various programs, forecast talent needs, identify drivers of employee behavior, optimize processes, and recommend data-backed interventions that enhance workforce capability, agility, and experience.
 With fierce competition for skilled talent, it has become imperative for HR to adopt analytics in managing people - the most important asset in a company.
 The goal is to provide data-backed recommendations on compensation structuring, career development, managerial coaching, and other areas to minimize regrettable attrition of high-potential employees. Implementing a strategic retention program based on analytical findings can help Company X protect its talent capital and knowledge assets.
+### Data source
+The data used is dummy data that does not represent any specific company but is used to demonstrate the capabilities
+of excel in creating visually appealing, dynamic, and intuitive user-friendly dashboards.
 
 ##  Problem statement 
-1. __What are the skill requirements for future?__
-2. __What are the top programming languages in demand?__
-3. __What are the top database skills in demand?__
+1. __How many active employees does the company have?__
+2. __What is the percentage attrition rate by the employees?__
+3. __Which gender has the highest attrition rate in this organization?__
+4. __What department has the lowest or highest attrition by gender?__
+5. __Which age group has the highest employee attrition in this company?__
+6. __Which marital status has the lowest attrition?__
+7. __Which education field has the highest attrition by gender?__
  
  
 ## Skills demonstrated.
