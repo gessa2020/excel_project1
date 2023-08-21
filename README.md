@@ -9,8 +9,8 @@ Essentially, HR analytics introduces an evidence-based approach toward strategic
 With fierce competition for skilled talent, it has become imperative for HR to adopt analytics in managing people - the most important asset in a company.
 The goal is to provide data-backed recommendations on compensation structuring, career development, managerial coaching, and other areas to minimize regrettable attrition of high-potential employees. Implementing a strategic retention program based on analytical findings can help Company X protect its talent capital and knowledge assets.
 ### Data source
-The data used is dummy data that does not represent any specific company but is used to demonstrate the capabilities
-of excel in creating visually appealing, dynamic, and intuitive user-friendly dashboards.
+The data used for this project is dummy data that does not represent any specific company but is used to demonstrate the capabilities of Excel in creating visually appealing, dynamic, and intuitive user-friendly dashboards.
+Below are some of the questions that can be answered by the dashboard that will be created in this project.
 
 ##  Problem statement 
 1. __How many active employees does the company have?__
