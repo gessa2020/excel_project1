@@ -1,9 +1,13 @@
 
-# Human Resource Analytics
-## A project on Leveraging Data to Reduce Attrition Risk and Retain Top Talent
-![](IMAGES/toptrendsjpg.jpg)
+# Human Resource Attrition Analytics
+## An Excel project on Leveraging Data to Reduce Attrition Risk and Retain Top Talent
+![](Screenshots/Coverpage.png)
 ## Introduction
-To stay ahead in today's fast-paced technological landscape, organizations must constantly analyze data to identify current and future skill requirements. This project aims to conduct a comprehensive technology trend analysis by collecting data from various sources and cleaning it up for analysis. By doing so, we hope to provide valuable insights that will help organizations remain competitive and adapt to changing technologies.
+This project entails conducting an in-depth analysis of employee attrition at an imaginary Company X using HR analytics techniques. Human resource analytics has emerged as a crucial function enabling data-driven workforce optimization. It applies analytical techniques to employee data across the talent lifecycle - from recruitment and onboarding to performance management, engagement, retention, and offboarding.
+By gathering, integrating, and analyzing HR metrics, organizations can gain a quantified view of workforce productivity, capacity, costs, risks, and opportunities. 
+Essentially, HR analytics introduces an evidence-based approach toward strategic human capital management. It allows HR leaders to accurately measure the ROI of various programs, forecast talent needs, identify drivers of employee behavior, optimize processes, and recommend data-backed interventions that enhance workforce capability, agility, and experience.
+With fierce competition for skilled talent, it has become imperative for HR to adopt analytics in managing people - the most important asset in a company.
+The goal is to provide data-backed recommendations on compensation structuring, career development, managerial coaching, and other areas to minimize regrettable attrition of high-potential employees. Implementing a strategic retention program based on analytical findings can help Company X protect its talent capital and knowledge assets.
 
 ##  Problem statement 
 1. __What are the skill requirements for future?__
