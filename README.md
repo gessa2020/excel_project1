@@ -23,9 +23,8 @@ Below are some of the questions that can be answered by the dashboard that will 
  
  
 ## Skills demonstrated.
-- I used python and its associated libraries for web scrapping and data retrival from an api
-- I used jupyter notebooks and vscode as IDEs for the project
-- I used IBM Cognos dashboard tool for survey data visualization.
+- I used PowerPoint to create the background for this project
+- I used then entirely used Excel as a tool to create the dashboard.
 
 ## Data sourcing
 We scrape data of the **name of the programming language** and **average annual salary** from the <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html">URL</a>  provided by skills network labs. 
