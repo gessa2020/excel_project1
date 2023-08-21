@@ -70,7 +70,7 @@ Graph showing Top 10 databases  Desired Next![](IMAGES/Top10DatabasesNext.jpg)
 - Postgre databases is most likely to become very popular than MySQL in coming years
 
 # Excel generated dashboard
-Dashboard showing human resource attrition ![](Screenshots/Dashboard.jpg)
+Dashboard showing human resource attrition ![](Screenshots/FinalDashboard.jpg)
 
 Dashboard showing future technology usage![](IMAGES/TAB2.jpg)
 
