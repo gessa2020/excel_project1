@@ -29,12 +29,15 @@ Below are some of the questions that can be answered by the dashboard that will 
 ## Demo
 ![watch the demo](hrvideo.mp4)
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="Screenshots/Coverpage.png">
-    <source src="hrvideo.mp4" type="video/mp4">
-    
-  </video>
-</figure>
+<video
+  controls
+  src="hrvideo.mp4"
+  poster="Screenshots/Coverpage.jpg.jpg?x11217"
+  width="620">
+  
+</video>
+  
+
 
 
 
