@@ -24,12 +24,16 @@ Below are some of the questions that can be answered by the dashboard that will 
  
 ## Skills demonstrated.
 - I used PowerPoint to create the background for this project
-- I used then entirely used Excel as a tool to create the dashboard.
+- I entirely used Excel as a tool to create the dashboard.
 
 ## Demo
+
 <video width="480" height="360" controls>
   <source src="https://github.com/gessa2020/excel_project1/blob/main/hrvideo.mp4?raw=true" type="video/mp4">
 Your browser does not support the video tag.  
+</video>
+
+<video width=“480” height=“360” controls> <source src=“https://media.githubusercontent.com/media/gessa2020/excel_project1/main/hrvideo.mp4” type=“video/mp4”> Your browser does not support the video tag.
 </video>
 
 
