@@ -26,7 +26,8 @@ Below are some of the questions that can be answered by the dashboard that will 
 - I used PowerPoint to create the background for this project
 - I entirely used Excel as a tool to create the dashboard.
 
-## Demo
+## Demo![demo](https://github.com/gessa2020/excel_project1/assets/52911013/cf0a2778-d514-43e4-a82a-931e2075bf66)
+
 
 [![Watch](https://github.com/gessa2020/excel_project1/blob/main/Screenshots/demo.gif)]
 
