@@ -28,14 +28,14 @@ Below are some of the questions that can be answered by the dashboard that will 
 
 ## Demo
 ![watch the demo](hrvideo.mp4)
-<!-- blank line -->
+
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
     <source src="hrvideo.mp4" type="video/mp4">
     
   </video>
 </figure>
-<!-- blank line -->
+
 
 
 
