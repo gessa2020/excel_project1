@@ -28,7 +28,7 @@ Below are some of the questions that can be answered by the dashboard that will 
 
 ## Demo
 
-[![Watch](https://github.com/gessa2020/excel_project1/blob/main/Screenshots/Finaldashboard.jpg)](https://github.com/gessa2020/excel_project1/blob/main/hrvideo.mp4)
+[![Watch](https://github.com/gessa2020/excel_project1/blob/main/Screenshots/demo.gif)]
 
 <video width="480" height="360" controls>
   <source src="https://github.com/gessa2020/excel_project1/blob/main/hrvideo.mp4?raw=true" type="video/mp4">
