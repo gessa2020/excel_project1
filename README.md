@@ -26,9 +26,9 @@ Below are some of the questions that can be answered by the dashboard that will 
 - I used PowerPoint to create the background for this project
 - I used then entirely used Excel as a tool to create the dashboard.
 
-## Data sourcing
-We scrape data of the **name of the programming language** and **average annual salary** from the <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html">URL</a>  provided by skills network labs. 
-We then write the scraped data into an csv file
+## Demo
+![](hrvideo.mp4)
+
 
 We then use the <a href="https://developer.adzuna.com/">Adzuna API</a> to scrape data of number of technology jobs in some selected US cities and store them in an excel file 
 
