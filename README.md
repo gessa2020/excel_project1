@@ -56,7 +56,7 @@ Considering Figure 1, Unlike in the HR and Sales department where is there a rel
 
 ### Agegroup Attrition analysis
 Figure2 
-![](Screenshots/femaleage.jpg "Female attrition")     ![](Screenshots/MaleAge.jpg "Male attrition")
+![](Screenshots/femaleage.jpg "Female attrition")     ![](Screenshots/Mage.jpg "Male attrition")
 
 Looking at Figure 2, company X has experienced a slightly higher number of male employee losses in the age group of between 25-34 as compared to their female counterparts of the same age group.
 
