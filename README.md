@@ -6,13 +6,13 @@
 This project entails conducting an in-depth analysis of employee attrition at an imaginary Company X using HR analytics techniques. Human resource analytics has emerged as a crucial function enabling data-driven workforce optimization. It applies analytical techniques to employee data across the talent lifecycle - from recruitment and onboarding to performance management, engagement, retention, and offboarding.
 By gathering, integrating, and analyzing HR metrics, organizations can gain a quantified view of workforce productivity, capacity, costs, risks, and opportunities. 
 Essentially, HR analytics introduces an evidence-based approach toward strategic human capital management. It allows HR leaders to accurately measure the ROI of various programs, forecast talent needs, identify drivers of employee behavior, optimize processes, and recommend data-backed interventions that enhance workforce capability, agility, and experience.
-With fierce competition for skilled talent, it has become imperative for HR to adopt analytics in managing people - the most important asset in a company.
+With fierce competition for skilled talent, it has become imperative for HR to adopt analytics in managing people - the most critical asset in a company.
 The goal is to provide data-backed recommendations on compensation structuring, career development, managerial coaching, and other areas to minimize regrettable attrition of high-potential employees. Implementing a strategic retention program based on analytical findings can help Company X protect its talent capital and knowledge assets.
 ### Data source
 The data used for this project is dummy data that does not represent any specific company but is used to demonstrate the capabilities of Excel in creating visually appealing, dynamic, and intuitive user-friendly dashboards.
 ### Dashboard development methodology and Design.
-We start by creating a customized background for this project which will make our dashboard more attractive, appealing, and intuitive using PowerPoint.
-However, the creation of the background is outside the scope of this project. we shall import one I have already created into Excel and use it.
+We start by creating a customized background for this project to make our dashboard more attractive, appealing, and intuitive using PowerPoint.
+However, the background creation is outside this project's scope. we shall import one I have already created into Excel and use it.
 The dashboard will consist of key performance indicators(KPIs) cards, donut charts, horizontal bar charts, tree maps, pie charts, column charts, funnel charts, and filter panels with filters.
 
 ### Dashboard building
