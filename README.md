@@ -60,6 +60,14 @@ Figure2
 
 Comparing the results from both plots, company X has experienced a slightly higher number of male employee loss in the age group of between 25-34 as compared to their female counterparts of the same age group.
 
+### Educationwise Attrition analysis
+Figure3 
+![](Screenshots/FemaleEducation.jpg "Female attrition")     ![](Screenshots/MaleEducation.jpg "Male attrition")
+
+
+### MaritalStatuswise Attrition analysis
+Figure4 
+![](Screenshots/FemaleStatus.jpg "Female attrition")     ![](Screenshots/MaleStatus.jpg "Male attrition")
 
 
 
