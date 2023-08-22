@@ -79,7 +79,7 @@ Comparing the graphs in Figure 4 above, we can see that there is a slightly high
 - The HR department enjoys the highest level of job satisfaction rating on average at 73% while the sales department has the least job satisfaction rating of 60%. 
 - The R & D department has the highest attrition rate of 56.12% followed by sales at 38.82 and the least is  HR  with  5.06%.
 
-To further explore and create more bashboards, <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html">click here</a> to access the workbook.
+To further explore and create more bashboards, <a href="https://github.com/gessa2020/excel_project1/blob/main/HR_AnalyticsWorkbook.xlsx">click here</a> to access the workbook.
 
 
 
