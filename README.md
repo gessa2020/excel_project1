@@ -44,7 +44,7 @@ We shall create one dashboard for the purpose of this project that will attempt 
  - The highest number of people who have left the company by education category are bachelor's holders whereas the least number of people who have left the company are doctorate holders.
  - The top 4 job categories with the highest number of people  who have left the company by job description are; Laboratory technicians, Sales executives, Research Scientists, and Sales Representatives respectively.
  - Among all the three departments in company X, the HR department is the one that has the least employee attrition rate whose percentage stands at 5.06%.
- - Attrition at company X  predominantly happens in the middle-aged group of employees of between 25-34 years of age.
+ - Attrition at company X  predominantly happens in the middle-aged group of employees between 25-34 years of age.
  - It can also be noted that the most number of people who have left the company have been married.
    
 ## Further analysis From generated graphs
@@ -52,7 +52,11 @@ We shall create one dashboard for the purpose of this project that will attempt 
 Figure1 
 ![](Screenshots/FemaleDep.jpg "Female attrition")     ![Male_employee_graph](Screenshots/MaleDep.jpg "Male attrition")
 ### Key takeaways from the generated Figure 1
-Unlike in HR and Sales department where is there a relatively lower attrition rates for the Male employees as compared to the Female employees, there is a relatively higher loss of employees in R & D for the males employees as compared to the Famales.
+Unlike in the HR and Sales department where is there a relatively lower attrition rate for the Male employees as compared to the Female employees, there is a relatively higher loss of employees in R & D for the male employees as compared to the females.
+
+### Agegroup Attrition analysis
+Figure2 
+![](Screenshots/FemaleAge.jpg "Female attrition")     ![](Screenshots/MaleAge.jpg "Male attrition")
 
 
 
