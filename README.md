@@ -29,10 +29,8 @@ Below are some of the questions that can be answered by the dashboard that will 
 ## A Dynamic, interactive, and intuitive Dashboard demo
 ![](https://github.com/gessa2020/excel_project1/assets/52911013/cf0a2778-d514-43e4-a82a-931e2075bf66)
 
-
- ## Data analysis and visualization
- ### Excel-generated dashboard
-Dashboard showing human resource attrition![](Screenshots/Finaldashboard.jpg)
+## Data analysis and visualization
+### Final Dashboard showing human resource attrition at Company X![](Screenshots/Finaldashboard.jpg)
  ### Keys findings from the dashboard:
  - Out of the 1470 employees with an average of 37 years that company X has had, 237 of them have left the company at an attrition rate of 16.12%.
  - Company X is fairly dominated by the Male gender whose percentage stands at 60%  of the total employees.
