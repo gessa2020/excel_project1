@@ -40,7 +40,7 @@ We shall create one dashboard for the purpose of this project that will attempt 
 ## Data analysis and visualization
 ### Final Dashboard showing human resource attrition at Company X![](Screenshots/Finaldashboard.jpg)
 ### Keys findings from the dashboard:
- - Out of the 1470 employees with an average of 37 years that company X has had, 237 of them have left the company at an attrition rate of 16.12%.
+ - Out of the 1470 employees with an average age of 37 years that company X has had, 237 of them have left the company at an attrition rate of 16.12%.
  - Company X is fairly dominated by the Male gender whose percentage stands at 60%  of the total employees.
  - The highest number of people who have left the company by education category are bachelor's holders whereas the least number of people who have left the company are doctorate holders.
  - The top 4 job categories with the highest number of people  who have left the company by job description are; Laboratory technicians, Sales executives, Research Scientists, and Sales Representatives respectively.
