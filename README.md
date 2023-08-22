@@ -56,13 +56,13 @@ Considering Figure 1, Unlike in the HR and Sales department where is there a rel
 
 ### Agegroup Attrition analysis
 Figure2 
-![](Screenshots/FemaleAge.jpg "Female attrition")     ![](Screenshots/MaleAge.jpg "Male attrition")
+![](Screenshots/femaleage.jpg "Female attrition")     ![](Screenshots/MaleAge.jpg "Male attrition")
 
 Looking at Figure 2, company X has experienced a slightly higher number of male employee losses in the age group of between 25-34 as compared to their female counterparts of the same age group.
 
 ### Educationwise Attrition analysis
 Figure3 
-![](Screenshots/FemaleEducation.jpg "Female attrition")     ![](Screenshots/MaleEducation.jpg "Male attrition")
+![](Screenshots/FemEdu.jpg "Female attrition")     ![](Screenshots/MaleEdu.jpg "Male attrition")
 
 Comparing the graphs in Figure 3, we can see that is a relatively higher number of male bachelor holders who have left the company  as compared to female bachelor holders.
 
