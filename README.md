@@ -22,16 +22,17 @@ We shall create one dashboard for the purpose of this project that will attempt 
 
 ##  Problem statement 
 1. __How many active employees does the company have?__
-2. __What is the percentage attrition rate by the employees?__
+2. __What is the overall percentage attrition rate of the employees?__
 3. __Which gender has the highest attrition rate in this organization?__
 4. __What department has the lowest or highest attrition by gender?__
 5. __Which age group has the highest employee attrition in this company?__
-6. __Which marital status has the lowest attrition?__
+6. __Which marital status has the lowest attrition rate?__
 7. __Which education field has the highest attrition by gender?__
  
  
 ### Skills demonstrated.
 - I used PowerPoint to create the background for this project
+- Use of pivot tables to create the graphs
 - I entirely used Excel as a tool to create the dashboard.
 
 ## A Dynamic, interactive, and intuitive Dashboard demo
@@ -79,7 +80,7 @@ Comparing the graphs in Figure 4 above, we can see that there is a slightly high
 - The HR department enjoys the highest level of job satisfaction rating on average at 73% while the sales department has the least job satisfaction rating of 60%. 
 - The R & D department has the highest attrition rate of 56.12% followed by sales at 38.82 and the least is  HR  with  5.06%.
 
-To further explore and create more bashboards, <a href="https://github.com/gessa2020/excel_project1/blob/main/HR_AnalyticsWorkbook.xlsx">click here</a> to access the workbook.
+To further explore and create more dashboards, <a href="https://github.com/gessa2020/excel_project1/blob/main/HR_AnalyticsWorkbook.xlsx">click here</a> to access the workbook.
 
 
 
