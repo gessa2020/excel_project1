@@ -64,10 +64,14 @@ Comparing the results from both plots, company X has experienced a slightly high
 Figure3 
 ![](Screenshots/FemaleEducation.jpg "Female attrition")     ![](Screenshots/MaleEducation.jpg "Male attrition")
 
+Comparing the two graphs above, we can see that is a relatively higher number of male bachelor holders who have left the company  as compared to female bachelor holders.
+
 
 ### MaritalStatuswise Attrition analysis
 Figure4 
 ![](Screenshots/FemaleStatus.jpg "Female attrition")     ![](Screenshots/MaleStatus.jpg "Male attrition")
+
+Comparing the two graphs above, we can see that there is a slightly higher number of married male employees who have left the company as compared to thier female married counterparts.
 
 
 
