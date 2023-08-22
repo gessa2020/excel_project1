@@ -48,10 +48,10 @@ We shall create one dashboard for the purpose of this project that will attempt 
  - Attrition at company X  predominantly happens in the middle-aged group of employees of between 25-34 years of age.
  - It can also be noted that the most number of people who have left the company have been married.
    
+ ## Further analysis From generated graphs
+ ![](Screenshots/FemaleDep.jpg)  [](Screenshots/MaleDep.jpg)
  
- 
-
-### key take ways from the generated graphs 
+ ### key take ways from the generated graphs 
 
 
 
