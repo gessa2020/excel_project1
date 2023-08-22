@@ -49,7 +49,7 @@ We shall create one dashboard for the purpose of this project that will attempt 
  - It can also be noted that the most number of people who have left the company have been married.
    
  ## Further analysis From generated graphs
- ![](Screenshots/FemaleDep.jpg)  [](Screenshots/MaleDep.jpg)
+ ![Female](Screenshots/FemaleDep.jpg)  ![](Screenshots/MaleDep.jpg)
  
  ### key take ways from the generated graphs 
 
