@@ -57,7 +57,8 @@ Unlike in the HR and Sales department where is there a relatively lower attritio
 ### Agegroup Attrition analysis
 Figure2 
 ![](Screenshots/FemaleAge.jpg "Female attrition")     ![](Screenshots/MaleAge.jpg "Male attrition")
-Comparing the results from both plots, company X has experienced a slightly higher number of male employee loss in the age group of between 25-34 as compared to their female counter parts of the same age group.
+
+Comparing the results from both plots, company X has experienced a slightly higher number of male employee loss in the age group of between 25-34 as compared to their female counterparts of the same age group.
 
 
 
