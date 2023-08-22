@@ -51,7 +51,9 @@ We shall create one dashboard for the purpose of this project that will attempt 
 ### Departmentwise Attrition analysis
 Figure1 
 ![](Screenshots/FemaleDep.jpg "Female attrition")     ![Male_employee_graph](Screenshots/MaleDep.jpg "Male attrition")
-### key take ways from the generated graphs 
+### Key takeaways from the generated Figure 1
+Unlike in HR and Sales department where is there a relatively lower attrition rates for the Male employees as compared to the Female employees, there is a relatively higher loss of employees in R & D for the males employees as compared to the Famales.
+
 
 
 
