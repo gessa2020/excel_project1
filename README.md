@@ -30,7 +30,7 @@ We shall create one dashboard for the purpose of this project that will attempt 
 7. __Which education field has the highest attrition by gender?__
  
  
-## Skills demonstrated.
+### Skills demonstrated.
 - I used PowerPoint to create the background for this project
 - I entirely used Excel as a tool to create the dashboard.
 
