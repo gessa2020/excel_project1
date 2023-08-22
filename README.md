@@ -52,36 +52,33 @@ We shall create one dashboard for the purpose of this project that will attempt 
 Figure1 
 ![](Screenshots/FemaleDep.jpg "Female attrition")     ![Male_employee_graph](Screenshots/MaleDep.jpg "Male attrition")
 ### Key takeaways from the generated Figure 1
-Unlike in the HR and Sales department where is there a relatively lower attrition rate for the Male employees as compared to the Female employees, there is a relatively higher loss of employees in R & D for the male employees as compared to the females.
+Considering Figure 1, Unlike in the HR and Sales department where is there a relatively lower attrition rate for the Male employees as compared to the Female employees, there is a relatively higher loss of employees in R & D for the male employees as compared to the females.
 
 ### Agegroup Attrition analysis
 Figure2 
 ![](Screenshots/FemaleAge.jpg "Female attrition")     ![](Screenshots/MaleAge.jpg "Male attrition")
 
-Comparing the results from both plots, company X has experienced a slightly higher number of male employee loss in the age group of between 25-34 as compared to their female counterparts of the same age group.
+Looking at Figure 2, company X has experienced a slightly higher number of male employee losses in the age group of between 25-34 as compared to their female counterparts of the same age group.
 
 ### Educationwise Attrition analysis
 Figure3 
 ![](Screenshots/FemaleEducation.jpg "Female attrition")     ![](Screenshots/MaleEducation.jpg "Male attrition")
 
-Comparing the two graphs above, we can see that is a relatively higher number of male bachelor holders who have left the company  as compared to female bachelor holders.
+Comparing the graphs in Figure 3, we can see that is a relatively higher number of male bachelor holders who have left the company  as compared to female bachelor holders.
 
 
 ### MaritalStatuswise Attrition analysis
 Figure4 
 ![](Screenshots/FemaleStatus.jpg "Female attrition")     ![](Screenshots/MaleStatus.jpg "Male attrition")
 
-Comparing the two graphs above, we can see that there is a slightly higher number of married male employees who have left the company as compared to thier female married counterparts.
-
-
-
-
-
-
-
-
+Comparing the graphs in Figure 4 above, we can see that there is a slightly higher number of married male employees who have left the company as compared to their female married counterparts.
 
 ## Conclussion
+- The female employees have a slightly lower attrition rate of 14.8% compared to their male counterparts which is at 17%.
+- There is an average job satisfaction of 2.6  for all  employees at company X which stands at 65%
+- The HR department enjoys the highest level of job satisfaction rating on average at 73% while the sales department has the least job satisfaction rating of 60%. 
+- The R & D department has the highest attrition rate of 56.12% followed by sales at 38.82 and the least is  HR  with  5.06%.
+
 
 
 
