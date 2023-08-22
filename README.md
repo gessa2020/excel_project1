@@ -1,6 +1,6 @@
 
 # Human Resource Attrition Analytics
-## An Excel project on Leveraging Data to Reduce Attrition Risk and Retain Top Talent
+## In this project, we leverage Excel to analyze attrition data and create a dashboard for company X using dummy data
 ![](Screenshots/Coverpage2.jpg)
 ## Introduction
 This project entails conducting an in-depth analysis of employee attrition at an imaginary Company X using HR analytics techniques. Human resource analytics has emerged as a crucial function enabling data-driven workforce optimization. It applies analytical techniques to employee data across the talent lifecycle - from recruitment and onboarding to performance management, engagement, retention, and offboarding.
